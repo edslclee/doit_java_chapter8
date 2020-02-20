@@ -1,2 +1,6 @@
 /Point.class
 /Circle.class
+/Customer.class
+/VIPCustomer.class
+/CustomerDriver.class
+/OverridingDriver.class
