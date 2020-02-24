@@ -23,7 +23,6 @@ class Eagle extends Animal{
 		System.out.println("독수리가 하늘을 아릅니다.");
 	}
 }
-
 public class AnimalTest {
 
 	public static void main(String[] args) {
@@ -33,8 +32,7 @@ public class AnimalTest {
 		test.moveAnimal(new Tiger());
 		test.moveAnimal(new Eagle());
 		
-//		Animal a = new Human();
-		
+//		Animal a = new Human();		
 	}
 		
 	public void moveAnimal(Animal animal) {
